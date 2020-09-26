@@ -1,10 +1,3 @@
-##########################################
-# Taller 3 - Simulación Computacional    #
-# Stephany Rivera Guzmán                 #
-# Santiago Romero Andrade                #
-# Laura María Tascón Vasco               #
-##########################################
-
 #  -*- coding: utf-8 -*-
 
 import interfaz

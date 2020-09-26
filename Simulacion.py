@@ -1,9 +1,3 @@
-######################################
-# Santiago Romero Andrade - 1765512 ##
-# Stephany Rivera Guzmán - 1765591  ##
-# Laura María Tascón Vasco - 1765534##
-######################################
-
 #enconding: utf-8
 import random
 import simpy
