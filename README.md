@@ -1,8 +1,8 @@
 # PROYECTO SIMULACIÓN COMPUTACIONAL: "El maestro del ajedrez" 
 ## Simulación de la solución del problema de las n reinas mediante el algoritmo las vegas y el algoritmo determinista:crown:
 ### Summary
-Dos personas deciden montar una idea de negocio donde una de ellas juega el juego de las n reinas con un robot. Si el humano <br />
-gana obtiene 30 y son 15 para cada persona y si el robot gana, la persona que no jugó pierde 10. Se realiza una simulación donde <br />
+Dos personas deciden montar una idea de negocio donde una de ellas juega el juego de las n reinas con un robot. Si el humano 
+gana obtiene 30 y son 15 para cada persona y si el robot gana, la persona que no jugó pierde 10. Se realiza una simulación donde 
 se busca saber que ganancia obtiene la persona que no juega según la siguiente disposición:
 
 ##### Datos de la simulación :clipboard:
