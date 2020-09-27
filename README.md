@@ -22,7 +22,8 @@ cuando se completa el tiempo de la simulación muestra cuanta utilidad generaron
 el robot y los promedios en tiempo de atención y de espera de los robots. 
 
 * La ejecucion del archivo ```main.py" ``` permite mostrar la interfaz gráfica de como se soluciona el juego de las n reinas ya sea mediante <br />
-el algoritmo de las vegas o el algoritmo determinista según la elección del usuario. Además, muestra el tiempo que demora en encontrar la solución.
+el algoritmo de las vegas o el algoritmo determinista según la elección del usuario. Además, muestra el tiempo que demora en encontrar la solución <br />
+y número de intentos promedios antes de tener éxito. 
 <br /> <br />
 
  ***Se hizo uso del lenguaje de programación PYTHON :snake:.***
